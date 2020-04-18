@@ -1,4 +1,4 @@
-require_relative "./bin/environment.rb"
+require_relative "../bin/environment.rb"
 
 class Dog < ActiveRecord::Base
 end
